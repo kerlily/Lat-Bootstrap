@@ -1,0 +1,11 @@
+h1{
+    color: red;
+}
+
+.btn.btn-info{
+    background-color: rgb(127, 16, 205);
+}
+
+.container-md{
+    outline: 1px solid red;
+}
