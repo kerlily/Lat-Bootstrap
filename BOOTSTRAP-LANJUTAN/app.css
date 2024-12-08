@@ -6,6 +6,8 @@ body{
 #navbar{
     font-size: 1.54rem;
     font-weight: 100;
+    background-color: rgba(171, 192, 191, 0.5);
+    
 }
 
 #navbar .nav-link{
@@ -21,6 +23,10 @@ body{
     font-size: 1.5rem;
 }
 
+.navbar.scrolled{
+    background-color: #c2ded1;
+}
+
 #tittle-head{
     font-weight: 100;
     font-size: 4.5rem;
@@ -32,4 +38,19 @@ body{
         font-size: 2rem;
 
     }
+}
+
+.blurb h2{
+    color: #354259;
+    font-size: 2.5rem;
+    font-weight: 100;
+}
+
+.blurp p{
+    color: #354259;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
